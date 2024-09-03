@@ -1,0 +1,2 @@
+Output/Release/Obj/secure_bootloader_ble_s140_pca10100/ses_startup_nrf52833.o: \
+ /home/ubuntu/Pardhu/Dash_pod/Thinkwise/A111_Build_add_led_accel_buzzer_modularizied/A111_integrated_All_build5/App_commands_integration/A111_ble_main_app_commands_HI_sense_temp_20240127/modules/nrfx/mdk/ses_startup_nrf52833.s
